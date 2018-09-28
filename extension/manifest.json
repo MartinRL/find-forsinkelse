@@ -3,7 +3,8 @@
   "version": "1.0",
   "description": "Saves delayed and cancelled trains @ www.trafikverket.se/trafikinformation.",
   "permissions": [
-    "https://www.trafikverket.se/trafikinformation/*"
+    "https://www.trafikverket.se/trafikinformation/*",
+    "storage"
   ],
   "manifest_version": 2,
   "content_scripts": [
